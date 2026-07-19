@@ -1,0 +1,18 @@
+title: Python Programming
+
+sections:
+  - title: Getting Started
+    chapters:
+      - slug: introduction
+        title: Introduction
+      - slug: installation
+        title: Installing Python
+
+  - title: Python Basics
+    chapters:
+      - slug: variables
+        title: Variables
+      - slug: operators
+        title: Operators
+      - slug: loops
+        title: Loops
