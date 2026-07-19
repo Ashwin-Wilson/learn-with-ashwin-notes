@@ -1,6 +1,6 @@
 courses:
   - title: Python
-    path: Python/index.md
+    path: Python
     description: Learn Python from beginner to advanced.
     icon: python
     difficulty: Beginner
