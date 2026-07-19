@@ -1,13 +1,13 @@
 courses:
   - title: Python
-    slug: python
+    path: Python/index.md
     description: Learn Python from beginner to advanced.
     icon: python
     difficulty: Beginner
     color: blue
 
   - title: Java
-    slug: java
+    path: java
     description: Master Java programming and OOP.
     icon: java
     difficulty: Intermediate
