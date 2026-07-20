@@ -1,6 +1,7 @@
 ---
 title: Python Programming
 description: Learn Python from beginner to advanced
+aliases: []
 ---
 
 # Python Programming
