@@ -1,18 +1,11 @@
 title: Python Programming
 
 sections:
-  - title: Getting Started
+  - title: Getting started with Coding
     chapters:
-      - slug: introduction
-        title: Introduction
-      - slug: installation
-        title: Installing Python
+      - path:  Basic Computer Knowledge.md
+        title: Basic Computer Knowledge
+      - path: Introduction to Python
+        title: Introduction to Python
 
-  - title: Python Basics
-    chapters:
-      - slug: variables
-        title: Variables
-      - slug: operators
-        title: Operators
-      - slug: loops
-        title: Loops
+
